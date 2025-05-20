@@ -1,1 +1,1 @@
-![My Photo](images/API.png)
+![My Photo](API.png)
